@@ -33,7 +33,8 @@ I didn’t using pretrain model at first because it's hard to get from ImageNet.
 
 After the first training, I used the first ckpt as pretrain model for second training. 
 
-I can provide my epochs50lr0.01 train model as pretrain model for you.
+I can provide my epochs50lr0.01 train model as pretrain model for you. (https://pan.baidu.com/s/1QmoewFlznYB40NTTshLuSw?pwd=hhkt 
+password：hhkt) 
 
 # Testing
 The eigen split has already been provided in eigen full folder, which has all test files' paths.
