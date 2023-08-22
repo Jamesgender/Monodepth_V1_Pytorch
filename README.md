@@ -29,7 +29,7 @@ Kitti
 python train.py --data_root (your data path) --model_path (pretrain model path)
 """
 And you can change some opts in train.py on your own or just using '--' to tell the python.
-I didn’t using pretrain model at first because it's hard to get from ImageNet. So the learning rate is 0.01 from(https://github.com/OniroAI/MonoDepth-PyTorch/issues/1). And I didn't using multi GPUs to train, about 15mins per epoch on one GTX 3090. 
+I didn’t use pretrain model at first because it's hard to get from ImageNet. So the learning rate is 0.01 from(https://github.com/OniroAI/MonoDepth-PyTorch/issues/1). And I didn't use multi GPUs to train, about 15mins per epoch on one GTX 3090. 
 
 After the first training, I used the first ckpt as pretrain model for second training. 
 
