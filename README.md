@@ -1,7 +1,7 @@
 # Monodepth-Pytorch
 Repo by Jamesgender.(https://github.com/Jamesgender)
 This repo is inspired by an amazing work of [Clément Godard](http://www0.cs.ucl.ac.uk/staff/C.Godard/), [Oisin Mac Aodha](http://vision.caltech.edu/~macaodha/) and [Gabriel J. Brostow](http://www0.cs.ucl.ac.uk/staff/g.brostow/) , for Unsupervised Monocular Depth Estimation.
-The most valuable and helpful reference code is here[OniroAI](https://github.com/OniroAI/MonoDepth-PyTorch), I use their transforms.py and some other functions.
+The most valuable and helpful reference code is here [OniroAI](https://github.com/OniroAI/MonoDepth-PyTorch), I use their transforms.py and some other functions.
 Original code and paper could be found via the following links:
 1. [Original repo](https://github.com/mrharicot/monodepth)
 2. [Original paper](https://arxiv.org/abs/1609.03677)
